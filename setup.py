@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup( 
     name = "xrayimg",
-    version = "0.0.1",
+    version = "0.0.2",
     description = 'A library for convert Rigaku img file to csv or png file',
     long_description = long_description,
     long_description_content_type = 'text/markdown',

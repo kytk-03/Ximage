@@ -1,1 +1,1 @@
-from xrayimg import XimgConverter
+from .xrayimg import XimgConverter
