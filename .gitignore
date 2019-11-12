@@ -1,4 +1,4 @@
-Ximage/__pycache__/
+xrayimg/__pycache__/
 build/
 dist/
 *.egg-info

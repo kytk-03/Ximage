@@ -5,7 +5,7 @@ import numpy as np
 import os
 from PIL import Image
 
-class Ximg_converter:
+class XimgConverter:
     PNG_MAX = 255
     def __init__(self, path_to_img):
         self.root = os.path.splitext(path_to_img)[0]
